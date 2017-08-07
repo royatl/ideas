@@ -1,0 +1,2 @@
+# ideas
+a general repository
